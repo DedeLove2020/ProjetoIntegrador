@@ -1,0 +1,7 @@
+/*
+ *
+ *  Projeto Integrador EMSERH
+ *
+ * 2019 (c) Empresa Maranhense de Serviços Hospitalares - EMSERH
+ *
+ */
